@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Trempette Test</string>
+    <string name="checkbox">I want to be a Wilder !</string>
+    <string name="home">Welcome to the Wild Code School</string>
+    <string name="button">ACCEPT</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="toastnok">Please fill your firstname and lanstname</string>
+</resources>
